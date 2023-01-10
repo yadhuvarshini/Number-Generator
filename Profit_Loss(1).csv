@@ -1,0 +1,1084 @@
+[1, 'type ->', '1', 'A man buys an article for 8100 and sells the article for 90. What is the profit percentage?', -98.88888888888889]
+
+[2, 'type ->', '1', 'A man buys an article for 7000 and sells the article for 30. What is the profit percentage?', -99.57142857142857]
+
+[3, 'type ->', '1', 'A man buys an article for 3700 and sells the article for 40. What is the profit percentage?', -98.91891891891892]
+
+[4, 'type ->', '1', 'A man buys an article for 7300 and sells the article for 40. What is the profit percentage?', -99.45205479452055]
+
+[5, 'type ->', '1', 'A man buys an article for 7700 and sells the article for 60. What is the profit percentage?', -99.22077922077922]
+
+[6, 'type ->', '1', 'A man buys an article for 8900 and sells the article for 70. What is the profit percentage?', -99.21348314606742]
+
+[7, 'type ->', '1', 'A man buys an article for 3600 and sells the article for 30. What is the profit percentage?', -99.16666666666667]
+
+[8, 'type ->', '1', 'A man buys an article for 1400 and sells the article for 20. What is the profit percentage?', -98.57142857142858]
+
+[9, 'type ->', '1', 'A man buys an article for 2800 and sells the article for 70. What is the profit percentage?', -97.5]
+
+[10, 'type ->', '1', 'A man buys an article for 7600 and sells the article for 20. What is the profit percentage?', -99.73684210526315]
+
+[11, 'type ->', '1', 'A man buys an article for 5300 and sells the article for 80. What is the profit percentage?', -98.49056603773585]
+
+[12, 'type ->', '2', 'A man buys an article for 8900 and sells the article for 40. What is the loss percentage?', 99.5505617977528]
+
+[13, 'type ->', '2', 'A man buys an article for 5300 and sells the article for 70. What is the loss percentage?', 98.67924528301887]
+
+[14, 'type ->', '2', 'A man buys an article for 3300 and sells the article for 60. What is the loss percentage?', 98.18181818181819]
+
+[15, 'type ->', '2', 'A man buys an article for 6300 and sells the article for 10. What is the loss percentage?', 99.84126984126985]
+
+[16, 'type ->', '2', 'A man buys an article for 6200 and sells the article for 50. What is the loss percentage?', 495.9677419354839]
+
+[17, 'type ->', '2', 'A man buys an article for 7700 and sells the article for 20. What is the loss percentage?', 199.4805194805195]
+
+[18, 'type ->', '2', 'A man buys an article for 8200 and sells the article for 60. What is the loss percentage?', 595.609756097561]
+
+[19, 'type ->', '2', 'A man buys an article for 7800 and sells the article for 50. What is the loss percentage?', 496.7948717948718]
+
+[20, 'type ->', '2', 'A man buys an article for 4500 and sells the article for 100. What is the loss percentage?', 977.7777777777777]
+
+[21, 'type ->', '2', 'A man buys an article for 1900 and sells the article for 10. What is the loss percentage?', 99.47368421052632]
+
+[22, 'type ->', '2', 'A man buys an article for 9300 and sells the article for 50. What is the loss percentage?', 497.31182795698925]
+
+[23, 'type ->', '2', 'A man buys an article for 5200 and sells the article for 40. What is the loss percentage?', 396.9230769230769]
+
+[24, 'type ->', '2', 'A man buys an article for 5500 and sells the article for 20. What is the loss percentage?', 199.27272727272728]
+
+[25, 'type ->', '2', 'A man buys an article for 1700 and sells the article for 30. What is the loss percentage?', 294.70588235294116]
+
+[26, 'type ->', '3', 'A man buys a cycle for 2200 and sells it at a loss of 10%. What is the selling price of the cycle?', 1980.0]
+
+[27, 'type ->', '3', 'A man buys a cycle for 2300 and sells it at a loss of 30%. What is the selling price of the cycle?', 2070.0]
+
+[28, 'type ->', '3', 'A man buys a cycle for 1100 and sells it at a loss of 40%. What is the selling price of the cycle?', 990.0]
+
+[29, 'type ->', '3', 'A man buys a cycle for 6700 and sells it at a loss of 75%. What is the selling price of the cycle?', 6030.0]
+
+[30, 'type ->', '3', 'A man buys a cycle for 5300 and sells it at a loss of 35%. What is the selling price of the cycle?', 4770.0]
+
+[31, 'type ->', '3', 'A man buys a cycle for 5300 and sells it at a loss of 85%. What is the selling price of the cycle?', 4770.0]
+
+[32, 'type ->', '3', 'A man buys a cycle for 4500 and sells it at a loss of 45%. What is the selling price of the cycle?', 4050.0]
+
+[33, 'type ->', '3', 'A man buys a cycle for 9900 and sells it at a loss of 30%. What is the selling price of the cycle?', 8910.0]
+
+[34, 'type ->', '3', 'A man buys a cycle for 9100 and sells it at a loss of 60%. What is the selling price of the cycle?', 8190.0]
+
+[35, 'type ->', '3', 'A man buys a cycle for 6200 and sells it at a loss of 55%. What is the selling price of the cycle?', 5580.0]
+
+[36, 'type ->', '3', 'A man buys a cycle for 1700 and sells it at a loss of 10%. What is the selling price of the cycle?', 1530.0]
+
+[37, 'type ->', '3', 'A man buys a cycle for 3200 and sells it at a loss of 80%. What is the selling price of the cycle?', 2880.0]
+
+[38, 'type ->', '3', 'A man buys a cycle for 5800 and sells it at a loss of 85%. What is the selling price of the cycle?', 5220.0]
+
+[39, 'type ->', '3', 'A man buys a cycle for 4400 and sells it at a loss of 20%. What is the selling price of the cycle?', 3960.0]
+
+[40, 'type ->', '3', 'A man buys a cycle for 7700 and sells it at a loss of 35%. What is the selling price of the cycle?', 6930.0]
+
+[41, 'type ->', '3', 'A man buys a cycle for 6800 and sells it at a loss of 85%. What is the selling price of the cycle?', 6120.0]
+
+[42, 'type ->', '3', 'A man buys a cycle for 1900 and sells it at a loss of 85%. What is the selling price of the cycle?', 1710.0]
+
+[43, 'type ->', '3', 'A man buys a cycle for 5700 and sells it at a loss of 30%. What is the selling price of the cycle?', 5130.0]
+
+[44, 'type ->', '4', 'A man buys a cycle for 4500 and sells it at a profit of 45%. What is the selling price of the cycle?', 6525.0]
+
+[45, 'type ->', '4', 'A man buys a cycle for 8800 and sells it at a profit of 25%. What is the selling price of the cycle?', 11000.0]
+
+[46, 'type ->', '4', 'A man buys a cycle for 8300 and sells it at a profit of 40%. What is the selling price of the cycle?', 11620.0]
+
+[47, 'type ->', '4', 'A man buys a cycle for 8400 and sells it at a profit of 10%. What is the selling price of the cycle?', 9240.0]
+
+[48, 'type ->', '4', 'A man buys a cycle for 5300 and sells it at a profit of 10%. What is the selling price of the cycle?', 5830.0]
+
+[49, 'type ->', '4', 'A man buys a cycle for 1700 and sells it at a profit of 50%. What is the selling price of the cycle?', 1870.0]
+
+[50, 'type ->', '4', 'A man buys a cycle for 4200 and sells it at a profit of 20%. What is the selling price of the cycle?', 4620.0]
+
+[51, 'type ->', '4', 'A man buys a cycle for 6700 and sells it at a profit of 40%. What is the selling price of the cycle?', 7370.0]
+
+[52, 'type ->', '4', 'A man buys a cycle for 9900 and sells it at a profit of 35%. What is the selling price of the cycle?', 10890.0]
+
+[53, 'type ->', '4', 'A man buys a cycle for 4000 and sells it at a profit of 30%. What is the selling price of the cycle?', 4400.0]
+
+[54, 'type ->', '4', 'A man buys a cycle for 9400 and sells it at a profit of 15%. What is the selling price of the cycle?', 10340.0]
+
+[55, 'type ->', '4', 'A man buys a cycle for 6200 and sells it at a profit of 35%. What is the selling price of the cycle?', 6820.0]
+
+[56, 'type ->', '4', 'A man buys a cycle for 1700 and sells it at a profit of 10%. What is the selling price of the cycle?', 1870.0]
+
+[57, 'type ->', '4', 'A man buys a cycle for 9400 and sells it at a profit of 10%. What is the selling price of the cycle?', 10340.0]
+
+[58, 'type ->', '4', 'A man buys a cycle for 7400 and sells it at a profit of 35%. What is the selling price of the cycle?', 8140.0]
+
+[59, 'type ->', '4', 'A man buys a cycle for 8800 and sells it at a profit of 40%. What is the selling price of the cycle?', 9680.0]
+
+[60, 'type ->', '5', 'On selling an article for 10000,there is a profit of 10%. The cost price of that article is', 9090.90909090909]
+
+[61, 'type ->', '5', 'On selling an article for 9000,there is a profit of 90%. The cost price of that article is', 8181.818181818182]
+
+[62, 'type ->', '5', 'On selling an article for 7100,there is a profit of 70%. The cost price of that article is', 6454.545454545454]
+
+[63, 'type ->', '5', 'On selling an article for 3800,there is a profit of 70%. The cost price of that article is', 3454.5454545454545]
+
+[64, 'type ->', '5', 'On selling an article for 2500,there is a profit of 80%. The cost price of that article is', 2272.7272727272725]
+
+[65, 'type ->', '5', 'On selling an article for 4900,there is a profit of 40%. The cost price of that article is', 4454.545454545454]
+
+[66, 'type ->', '5', 'On selling an article for 10000,there is a profit of 20%. The cost price of that article is', 9090.90909090909]
+
+[67, 'type ->', '5', 'On selling an article for 9200,there is a profit of 30%. The cost price of that article is', 8363.636363636364]
+
+[68, 'type ->', '5', 'On selling an article for 9900,there is a profit of 60%. The cost price of that article is', 9000.0]
+
+[69, 'type ->', '5', 'On selling an article for 1900,there is a profit of 30%. The cost price of that article is', 1727.2727272727273]
+
+[70, 'type ->', '5', 'On selling an article for 6700,there is a profit of 30%. The cost price of that article is', 6090.909090909091]
+
+[71, 'type ->', '5', 'On selling an article for 8500,there is a profit of 70%. The cost price of that article is', 7727.272727272727]
+
+[72, 'type ->', '6', 'On selling an article for 2000,there is a loss of 50%. The cost price of that article is', 4000.0]
+
+[73, 'type ->', '6', 'On selling an article for 7900,there is a loss of 10%. The cost price of that article is', 8777.777777777777]
+
+[74, 'type ->', '6', 'On selling an article for 2700,there is a loss of 30%. The cost price of that article is', 3000.0]
+
+[75, 'type ->', '6', 'On selling an article for 9900,there is a loss of 20%. The cost price of that article is', 11000.0]
+
+[76, 'type ->', '6', 'On selling an article for 4600,there is a loss of 50%. The cost price of that article is', 5111.111111111111]
+
+[77, 'type ->', '6', 'On selling an article for 10000,there is a loss of 30%. The cost price of that article is', 11111.111111111111]
+
+[78, 'type ->', '6', 'On selling an article for 4200,there is a loss of 10%. The cost price of that article is', 4666.666666666667]
+
+[79, 'type ->', '6', 'On selling an article for 6200,there is a loss of 50%. The cost price of that article is', 6888.88888888889]
+
+[80, 'type ->', '6', 'On selling an article for 7200,there is a loss of 30%. The cost price of that article is', 8000.0]
+
+[81, 'type ->', '6', 'On selling an article for 7200,there is a loss of 50%. The cost price of that article is', 8000.0]
+
+[82, 'type ->', '6', 'On selling an article for 5900,there is a loss of 20%. The cost price of that article is', 6555.555555555556]
+
+[83, 'type ->', '6', 'On selling an article for 5300,there is a loss of 30%. The cost price of that article is', 5888.88888888889]
+
+[84, 'type ->', '6', 'On selling an article for 8900,there is a loss of 10%. The cost price of that article is', 9888.888888888889]
+
+[85, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 10% after allowing a commission of 15%', 29.411764705882348]
+
+[86, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 20% after allowing a commission of 10%', 31.57894736842104]
+
+[87, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 25% after allowing a commission of 45%', 85.3658536585366]
+
+[88, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 5% after allowing a commission of 30%', 87.5]
+
+[89, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 90% after allowing a commission of 20%', 112.5]
+
+[90, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 55% after allowing a commission of 30%', 89.90384615384619]
+
+[91, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 25% after allowing a commission of 25%', 55.55555555555554]
+
+[92, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 55% after allowing a commission of 50%', 122.22222222222229]
+
+[93, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 100% after allowing a commission of 35%', 222.22222222222217]
+
+[94, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 65% after allowing a commission of 15%', 144.44444444444446]
+
+[95, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 10% after allowing a commission of 20%', 22.22222222222223]
+
+[96, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 20% after allowing a commission of 35%', 44.44444444444446]
+
+[97, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 35% after allowing a commission of 50%', 77.77777777777777]
+
+[98, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 70% after allowing a commission of 45%', 155.55555555555554]
+
+[99, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 100% after allowing a commission of 20%', 222.22222222222217]
+
+[100, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 5% after allowing a commission of 50%', 11.111111111111114]
+
+[101, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 90% after allowing a commission of 10%', 200.0]
+
+[102, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 10% after allowing a commission of 45%', 22.22222222222223]
+
+[103, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 30% after allowing a commission of 10%', 66.66666666666669]
+
+[104, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 45% after allowing a commission of 45%', 100.0]
+
+[105, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 75% after allowing a commission of 25%', 166.66666666666674]
+
+[106, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 65% after allowing a commission of 35%', 144.44444444444446]
+
+[107, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 35% after allowing a commission of 35%', 77.77777777777777]
+
+[108, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 10% after allowing a commission of 15%', 22.22222222222223]
+
+[109, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 80% after allowing a commission of 45%', 177.77777777777783]
+
+[110, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 70% after allowing a commission of 45%', 155.55555555555554]
+
+[111, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 70% after allowing a commission of 45%', 155.55555555555554]
+
+[112, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 5% after allowing a commission of 10%', 11.111111111111114]
+
+[113, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 65% after allowing a commission of 20%', 144.44444444444446]
+
+[114, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 100% after allowing a commission of 35%', 222.22222222222217]
+
+[115, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 40% after allowing a commission of 50%', 88.88888888888891]
+
+[116, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 35% after allowing a commission of 50%', 77.77777777777777]
+
+[117, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 15% after allowing a commission of 30%', 33.33333333333334]
+
+[118, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 35% after allowing a commission of 15%', 77.77777777777777]
+
+[119, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 20% after allowing a commission of 5%', 44.44444444444446]
+
+[120, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 15% after allowing a commission of 40%', 33.33333333333334]
+
+[121, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 95% after allowing a commission of 45%', 211.1111111111111]
+
+[122, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 90% after allowing a commission of 35%', 200.0]
+
+[123, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 40% after allowing a commission of 10%', 88.88888888888891]
+
+[124, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 95% after allowing a commission of 40%', 211.1111111111111]
+
+[125, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 65% after allowing a commission of 25%', 144.44444444444446]
+
+[126, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 45% after allowing a commission of 15%', 100.0]
+
+[127, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 40% after allowing a commission of 25%', 88.88888888888891]
+
+[128, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 5% after allowing a commission of 25%', 11.111111111111114]
+
+[129, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 25% after allowing a commission of 45%', 55.55555555555554]
+
+[130, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 70% after allowing a commission of 5%', 155.55555555555554]
+
+[131, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 20% after allowing a commission of 10%', 44.44444444444446]
+
+[132, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 10% after allowing a commission of 40%', 22.22222222222223]
+
+[133, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 85% after allowing a commission of 50%', 188.8888888888889]
+
+[134, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 90% after allowing a commission of 40%', 200.0]
+
+[135, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 90% after allowing a commission of 30%', 200.0]
+
+[136, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 100% after allowing a commission of 35%', 222.22222222222217]
+
+[137, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 65% after allowing a commission of 40%', 144.44444444444446]
+
+[138, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 75% after allowing a commission of 20%', 166.66666666666674]
+
+[139, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 75% after allowing a commission of 20%', 166.66666666666674]
+
+[140, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 85% after allowing a commission of 50%', 188.8888888888889]
+
+[141, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 95% after allowing a commission of 45%', 211.1111111111111]
+
+[142, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 20% after allowing a commission of 10%', 44.44444444444446]
+
+[143, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 35% after allowing a commission of 50%', 77.77777777777777]
+
+[144, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 50% after allowing a commission of 50%', 111.11111111111109]
+
+[145, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 10% after allowing a commission of 30%', 22.22222222222223]
+
+[146, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 85% after allowing a commission of 45%', 188.8888888888889]
+
+[147, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 40% after allowing a commission of 30%', 88.88888888888891]
+
+[148, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 70% after allowing a commission of 5%', 155.55555555555554]
+
+[149, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 20% after allowing a commission of 50%', 44.44444444444446]
+
+[150, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 40% after allowing a commission of 25%', 88.88888888888891]
+
+[151, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 20% after allowing a commission of 5%', 44.44444444444446]
+
+[152, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 25% after allowing a commission of 45%', 55.55555555555554]
+
+[153, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 5% after allowing a commission of 35%', 11.111111111111114]
+
+[154, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 65% after allowing a commission of 20%', 144.44444444444446]
+
+[155, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 10% after allowing a commission of 45%', 22.22222222222223]
+
+[156, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 20% after allowing a commission of 10%', 44.44444444444446]
+
+[157, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 25% after allowing a commission of 5%', 55.55555555555554]
+
+[158, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 25% after allowing a commission of 40%', 55.55555555555554]
+
+[159, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 60% after allowing a commission of 40%', 133.33333333333337]
+
+[160, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 50% after allowing a commission of 25%', 111.11111111111109]
+
+[161, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 30% after allowing a commission of 10%', 66.66666666666669]
+
+[162, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 55% after allowing a commission of 5%', 122.22222222222229]
+
+[163, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 30% after allowing a commission of 30%', 66.66666666666669]
+
+[164, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 25% after allowing a commission of 40%', 55.55555555555554]
+
+[165, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 65% after allowing a commission of 20%', 144.44444444444446]
+
+[166, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 30% after allowing a commission of 20%', 66.66666666666669]
+
+[167, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 60% after allowing a commission of 10%', 133.33333333333337]
+
+[168, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 20% after allowing a commission of 50%', 44.44444444444446]
+
+[169, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 15% after allowing a commission of 40%', 33.33333333333334]
+
+[170, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 15% after allowing a commission of 20%', 33.33333333333334]
+
+[171, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 15% after allowing a commission of 45%', 33.33333333333334]
+
+[172, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 45% after allowing a commission of 25%', 100.0]
+
+[173, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 45% after allowing a commission of 15%', 100.0]
+
+[174, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 45% after allowing a commission of 15%', 100.0]
+
+[175, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 15% after allowing a commission of 10%', 33.33333333333334]
+
+[176, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 40% after allowing a commission of 30%', 88.88888888888891]
+
+[177, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 65% after allowing a commission of 5%', 144.44444444444446]
+
+[178, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 10% after allowing a commission of 45%', 22.22222222222223]
+
+[179, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 5% after allowing a commission of 15%', 11.111111111111114]
+
+[180, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 10% after allowing a commission of 50%', 22.22222222222223]
+
+[181, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 20% after allowing a commission of 40%', 44.44444444444446]
+
+[182, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 55% after allowing a commission of 40%', 122.22222222222229]
+
+[183, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 70% after allowing a commission of 35%', 155.55555555555554]
+
+[184, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 40% after allowing a commission of 10%', 88.88888888888891]
+
+[185, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 30% after allowing a commission of 5%', 66.66666666666669]
+
+[186, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 95% after allowing a commission of 30%', 211.1111111111111]
+
+[187, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 5% after allowing a commission of 35%', 11.111111111111114]
+
+[188, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 85% after allowing a commission of 30%', 188.8888888888889]
+
+[189, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 70% after allowing a commission of 40%', 155.55555555555554]
+
+[190, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 10% after allowing a commission of 25%', 22.22222222222223]
+
+[191, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 80% after allowing a commission of 25%', 177.77777777777783]
+
+[192, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 25% after allowing a commission of 50%', 55.55555555555554]
+
+[193, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 50% after allowing a commission of 45%', 111.11111111111109]
+
+[194, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 95% after allowing a commission of 25%', 211.1111111111111]
+
+[195, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 25% after allowing a commission of 45%', 55.55555555555554]
+
+[196, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 90% after allowing a commission of 20%', 200.0]
+
+[197, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 65% after allowing a commission of 20%', 144.44444444444446]
+
+[198, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 95% after allowing a commission of 35%', 211.1111111111111]
+
+[199, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 25% after allowing a commission of 30%', 55.55555555555554]
+
+[200, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 5% after allowing a commission of 45%', 11.111111111111114]
+
+[201, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 95% after allowing a commission of 40%', 211.1111111111111]
+
+[202, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 20% after allowing a commission of 25%', 44.44444444444446]
+
+[203, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 95% after allowing a commission of 25%', 211.1111111111111]
+
+[204, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 70% after allowing a commission of 10%', 155.55555555555554]
+
+[205, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 85% after allowing a commission of 35%', 188.8888888888889]
+
+[206, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 45% after allowing a commission of 20%', 100.0]
+
+[207, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 35% after allowing a commission of 20%', 77.77777777777777]
+
+[208, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 10% after allowing a commission of 35%', 22.22222222222223]
+
+[209, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 45% after allowing a commission of 40%', 100.0]
+
+[210, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 70% after allowing a commission of 45%', 155.55555555555554]
+
+[211, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 95% after allowing a commission of 5%', 211.1111111111111]
+
+[212, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 85% after allowing a commission of 35%', 188.8888888888889]
+
+[213, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 30% after allowing a commission of 5%', 66.66666666666669]
+
+[214, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 15% after allowing a commission of 45%', 33.33333333333334]
+
+[215, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 40% after allowing a commission of 30%', 88.88888888888891]
+
+[216, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 85% after allowing a commission of 20%', 188.8888888888889]
+
+[217, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 10% after allowing a commission of 50%', 22.22222222222223]
+
+[218, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 5% after allowing a commission of 50%', 11.111111111111114]
+
+[219, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 80% after allowing a commission of 5%', 177.77777777777783]
+
+[220, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 60% after allowing a commission of 5%', 133.33333333333337]
+
+[221, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 40% after allowing a commission of 10%', 88.88888888888891]
+
+[222, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 30% after allowing a commission of 5%', 66.66666666666669]
+
+[223, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 90% after allowing a commission of 30%', 200.0]
+
+[224, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 55% after allowing a commission of 35%', 122.22222222222229]
+
+[225, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 55% after allowing a commission of 25%', 122.22222222222229]
+
+[226, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 45% after allowing a commission of 45%', 100.0]
+
+[227, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 45% after allowing a commission of 25%', 100.0]
+
+[228, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 70% after allowing a commission of 30%', 155.55555555555554]
+
+[229, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 65% after allowing a commission of 10%', 144.44444444444446]
+
+[230, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 90% after allowing a commission of 20%', 200.0]
+
+[231, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 15% after allowing a commission of 30%', 33.33333333333334]
+
+[232, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 35% after allowing a commission of 10%', 77.77777777777777]
+
+[233, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 40% after allowing a commission of 15%', 88.88888888888891]
+
+[234, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 90% after allowing a commission of 10%', 200.0]
+
+[235, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 10% after allowing a commission of 50%', 22.22222222222223]
+
+[236, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 15% after allowing a commission of 5%', 33.33333333333334]
+
+[237, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 55% after allowing a commission of 40%', 122.22222222222229]
+
+[238, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 5% after allowing a commission of 20%', 11.111111111111114]
+
+[239, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 75% after allowing a commission of 10%', 166.66666666666674]
+
+[240, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 25% after allowing a commission of 5%', 55.55555555555554]
+
+[241, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 15% after allowing a commission of 35%', 33.33333333333334]
+
+[242, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 40% after allowing a commission of 15%', 88.88888888888891]
+
+[243, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 45% after allowing a commission of 15%', 100.0]
+
+[244, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 50% after allowing a commission of 10%', 111.11111111111109]
+
+[245, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 90% after allowing a commission of 10%', 200.0]
+
+[246, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 85% after allowing a commission of 5%', 188.8888888888889]
+
+[247, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 5% after allowing a commission of 25%', 11.111111111111114]
+
+[248, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 65% after allowing a commission of 10%', 144.44444444444446]
+
+[249, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 60% after allowing a commission of 45%', 133.33333333333337]
+
+[250, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 80% after allowing a commission of 20%', 177.77777777777783]
+
+[251, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 25% after allowing a commission of 45%', 55.55555555555554]
+
+[252, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 40% after allowing a commission of 25%', 88.88888888888891]
+
+[253, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 85% after allowing a commission of 20%', 188.8888888888889]
+
+[254, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 55% after allowing a commission of 45%', 122.22222222222229]
+
+[255, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 30% after allowing a commission of 50%', 66.66666666666669]
+
+[256, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 65% after allowing a commission of 30%', 144.44444444444446]
+
+[257, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 95% after allowing a commission of 45%', 211.1111111111111]
+
+[258, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 50% after allowing a commission of 45%', 111.11111111111109]
+
+[259, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 75% after allowing a commission of 50%', 166.66666666666674]
+
+[260, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 45% after allowing a commission of 35%', 100.0]
+
+[261, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 40% after allowing a commission of 15%', 88.88888888888891]
+
+[262, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 30% after allowing a commission of 10%', 66.66666666666669]
+
+[263, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 60% after allowing a commission of 10%', 133.33333333333337]
+
+[264, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 45% after allowing a commission of 15%', 100.0]
+
+[265, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 45% after allowing a commission of 20%', 100.0]
+
+[266, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 95% after allowing a commission of 5%', 211.1111111111111]
+
+[267, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 65% after allowing a commission of 10%', 144.44444444444446]
+
+[268, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 50% after allowing a commission of 50%', 111.11111111111109]
+
+[269, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 50% after allowing a commission of 15%', 111.11111111111109]
+
+[270, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 40% after allowing a commission of 35%', 88.88888888888891]
+
+[271, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 10% after allowing a commission of 35%', 22.22222222222223]
+
+[272, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 50% after allowing a commission of 45%', 111.11111111111109]
+
+[273, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 20% after allowing a commission of 20%', 44.44444444444446]
+
+[274, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 75% after allowing a commission of 10%', 166.66666666666674]
+
+[275, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 30% after allowing a commission of 45%', 66.66666666666669]
+
+[276, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 45% after allowing a commission of 20%', 100.0]
+
+[277, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 95% after allowing a commission of 50%', 211.1111111111111]
+
+[278, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 85% after allowing a commission of 30%', 188.8888888888889]
+
+[279, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 70% after allowing a commission of 5%', 155.55555555555554]
+
+[280, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 95% after allowing a commission of 40%', 211.1111111111111]
+
+[281, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 45% after allowing a commission of 50%', 100.0]
+
+[282, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 25% after allowing a commission of 10%', 55.55555555555554]
+
+[283, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 60% after allowing a commission of 20%', 133.33333333333337]
+
+[284, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 35% after allowing a commission of 5%', 77.77777777777777]
+
+[285, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 100% after allowing a commission of 15%', 222.22222222222217]
+
+[286, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 65% after allowing a commission of 15%', 144.44444444444446]
+
+[287, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 40% after allowing a commission of 50%', 88.88888888888891]
+
+[288, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 15% after allowing a commission of 25%', 33.33333333333334]
+
+[289, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 20% after allowing a commission of 10%', 44.44444444444446]
+
+[290, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 100% after allowing a commission of 40%', 222.22222222222217]
+
+[291, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 95% after allowing a commission of 10%', 211.1111111111111]
+
+[292, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 40% after allowing a commission of 40%', 88.88888888888891]
+
+[293, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 20% after allowing a commission of 10%', 44.44444444444446]
+
+[294, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 95% after allowing a commission of 40%', 211.1111111111111]
+
+[295, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 85% after allowing a commission of 25%', 188.8888888888889]
+
+[296, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 80% after allowing a commission of 15%', 177.77777777777783]
+
+[297, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 90% after allowing a commission of 15%', 200.0]
+
+[298, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 75% after allowing a commission of 10%', 166.66666666666674]
+
+[299, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 85% after allowing a commission of 15%', 188.8888888888889]
+
+[300, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 35% after allowing a commission of 5%', 77.77777777777777]
+
+[301, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 45% after allowing a commission of 15%', 100.0]
+
+[302, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 75% after allowing a commission of 25%', 166.66666666666674]
+
+[303, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 85% after allowing a commission of 35%', 188.8888888888889]
+
+[304, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 10% after allowing a commission of 40%', 22.22222222222223]
+
+[305, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 25% after allowing a commission of 50%', 55.55555555555554]
+
+[306, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 5% after allowing a commission of 20%', 11.111111111111114]
+
+[307, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 75% after allowing a commission of 20%', 166.66666666666674]
+
+[308, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 70% after allowing a commission of 5%', 155.55555555555554]
+
+[309, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 85% after allowing a commission of 40%', 188.8888888888889]
+
+[310, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 55% after allowing a commission of 10%', 122.22222222222229]
+
+[311, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 10% after allowing a commission of 30%', 22.22222222222223]
+
+[312, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 5% after allowing a commission of 20%', 11.111111111111114]
+
+[313, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 95% after allowing a commission of 30%', 211.1111111111111]
+
+[314, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 65% after allowing a commission of 35%', 144.44444444444446]
+
+[315, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 20% after allowing a commission of 40%', 44.44444444444446]
+
+[316, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 80% after allowing a commission of 40%', 177.77777777777783]
+
+[317, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 55% after allowing a commission of 40%', 122.22222222222229]
+
+[318, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 5% after allowing a commission of 30%', 11.111111111111114]
+
+[319, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 100% after allowing a commission of 20%', 222.22222222222217]
+
+[320, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 75% after allowing a commission of 15%', 166.66666666666674]
+
+[321, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 80% after allowing a commission of 40%', 177.77777777777783]
+
+[322, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 85% after allowing a commission of 30%', 188.8888888888889]
+
+[323, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 55% after allowing a commission of 40%', 122.22222222222229]
+
+[324, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 5% after allowing a commission of 40%', 11.111111111111114]
+
+[325, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 95% after allowing a commission of 40%', 211.1111111111111]
+
+[326, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 90% after allowing a commission of 20%', 200.0]
+
+[327, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 10% after allowing a commission of 25%', 22.22222222222223]
+
+[328, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 50% after allowing a commission of 10%', 111.11111111111109]
+
+[329, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 50% after allowing a commission of 20%', 111.11111111111109]
+
+[330, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 20% after allowing a commission of 20%', 44.44444444444446]
+
+[331, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 60% after allowing a commission of 15%', 133.33333333333337]
+
+[332, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 90% after allowing a commission of 10%', 200.0]
+
+[333, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 90% after allowing a commission of 10%', 200.0]
+
+[334, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 75% after allowing a commission of 15%', 166.66666666666674]
+
+[335, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 40% after allowing a commission of 10%', 88.88888888888891]
+
+[336, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 80% after allowing a commission of 10%', 177.77777777777783]
+
+[337, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 45% after allowing a commission of 15%', 100.0]
+
+[338, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 80% after allowing a commission of 10%', 177.77777777777783]
+
+[339, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 20% after allowing a commission of 15%', 44.44444444444446]
+
+[340, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 85% after allowing a commission of 30%', 188.8888888888889]
+
+[341, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 40% after allowing a commission of 45%', 88.88888888888891]
+
+[342, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 90% after allowing a commission of 10%', 200.0]
+
+[343, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 35% after allowing a commission of 35%', 77.77777777777777]
+
+[344, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 40% after allowing a commission of 35%', 88.88888888888891]
+
+[345, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 60% after allowing a commission of 10%', 133.33333333333337]
+
+[346, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 60% after allowing a commission of 30%', 133.33333333333337]
+
+[347, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 70% after allowing a commission of 30%', 155.55555555555554]
+
+[348, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 15% after allowing a commission of 20%', 33.33333333333334]
+
+[349, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 80% after allowing a commission of 50%', 177.77777777777783]
+
+[350, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 20% after allowing a commission of 40%', 44.44444444444446]
+
+[351, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 100% after allowing a commission of 10%', 222.22222222222217]
+
+[352, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 75% after allowing a commission of 10%', 166.66666666666674]
+
+[353, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 30% after allowing a commission of 20%', 66.66666666666669]
+
+[354, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 5% after allowing a commission of 15%', 11.111111111111114]
+
+[355, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 35% after allowing a commission of 15%', 77.77777777777777]
+
+[356, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 35% after allowing a commission of 15%', 77.77777777777777]
+
+[357, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 25% after allowing a commission of 45%', 55.55555555555554]
+
+[358, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 95% after allowing a commission of 40%', 211.1111111111111]
+
+[359, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 15% after allowing a commission of 45%', 33.33333333333334]
+
+[360, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 85% after allowing a commission of 20%', 188.8888888888889]
+
+[361, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 70% after allowing a commission of 50%', 155.55555555555554]
+
+[362, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 80% after allowing a commission of 25%', 177.77777777777783]
+
+[363, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 25% after allowing a commission of 5%', 55.55555555555554]
+
+[364, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 5% after allowing a commission of 30%', 11.111111111111114]
+
+[365, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 45% after allowing a commission of 25%', 100.0]
+
+[366, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 25% after allowing a commission of 25%', 55.55555555555554]
+
+[367, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 30% after allowing a commission of 30%', 66.66666666666669]
+
+[368, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 80% after allowing a commission of 50%', 177.77777777777783]
+
+[369, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 40% after allowing a commission of 10%', 88.88888888888891]
+
+[370, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 85% after allowing a commission of 35%', 188.8888888888889]
+
+[371, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 15% after allowing a commission of 5%', 33.33333333333334]
+
+[372, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 100% after allowing a commission of 50%', 222.22222222222217]
+
+[373, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 20% after allowing a commission of 35%', 44.44444444444446]
+
+[374, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 85% after allowing a commission of 35%', 188.8888888888889]
+
+[375, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 100% after allowing a commission of 10%', 222.22222222222217]
+
+[376, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 40% after allowing a commission of 20%', 88.88888888888891]
+
+[377, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 5% after allowing a commission of 15%', 11.111111111111114]
+
+[378, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 50% after allowing a commission of 30%', 111.11111111111109]
+
+[379, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 35% after allowing a commission of 50%', 77.77777777777777]
+
+[380, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 35% after allowing a commission of 50%', 77.77777777777777]
+
+[381, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 5% after allowing a commission of 15%', 11.111111111111114]
+
+[382, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 95% after allowing a commission of 35%', 211.1111111111111]
+
+[383, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 20% after allowing a commission of 25%', 44.44444444444446]
+
+[384, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 60% after allowing a commission of 50%', 133.33333333333337]
+
+[385, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 50% after allowing a commission of 15%', 111.11111111111109]
+
+[386, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 95% after allowing a commission of 45%', 211.1111111111111]
+
+[387, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 55% after allowing a commission of 10%', 122.22222222222229]
+
+[388, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 30% after allowing a commission of 20%', 66.66666666666669]
+
+[389, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 35% after allowing a commission of 20%', 77.77777777777777]
+
+[390, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 55% after allowing a commission of 40%', 122.22222222222229]
+
+[391, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 85% after allowing a commission of 15%', 188.8888888888889]
+
+[392, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 70% after allowing a commission of 50%', 155.55555555555554]
+
+[393, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 30% after allowing a commission of 5%', 66.66666666666669]
+
+[394, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 85% after allowing a commission of 10%', 188.8888888888889]
+
+[395, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 90% after allowing a commission of 20%', 200.0]
+
+[396, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 70% after allowing a commission of 15%', 155.55555555555554]
+
+[397, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 15% after allowing a commission of 20%', 33.33333333333334]
+
+[398, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 50% after allowing a commission of 15%', 111.11111111111109]
+
+[399, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 95% after allowing a commission of 35%', 211.1111111111111]
+
+[400, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 35% after allowing a commission of 30%', 77.77777777777777]
+
+[401, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 70% after allowing a commission of 40%', 155.55555555555554]
+
+[402, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 10% after allowing a commission of 35%', 22.22222222222223]
+
+[403, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 100% after allowing a commission of 10%', 222.22222222222217]
+
+[404, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 60% after allowing a commission of 30%', 133.33333333333337]
+
+[405, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 60% after allowing a commission of 35%', 133.33333333333337]
+
+[406, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 50% after allowing a commission of 15%', 111.11111111111109]
+
+[407, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 65% after allowing a commission of 15%', 144.44444444444446]
+
+[408, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 95% after allowing a commission of 10%', 211.1111111111111]
+
+[409, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 70% after allowing a commission of 40%', 155.55555555555554]
+
+[410, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 65% after allowing a commission of 35%', 144.44444444444446]
+
+[411, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 55% after allowing a commission of 5%', 122.22222222222229]
+
+[412, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 20% after allowing a commission of 20%', 44.44444444444446]
+
+[413, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 65% after allowing a commission of 10%', 144.44444444444446]
+
+[414, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 30% after allowing a commission of 15%', 66.66666666666669]
+
+[415, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 40% after allowing a commission of 30%', 88.88888888888891]
+
+[416, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 95% after allowing a commission of 40%', 211.1111111111111]
+
+[417, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 10% after allowing a commission of 40%', 22.22222222222223]
+
+[418, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 60% after allowing a commission of 35%', 133.33333333333337]
+
+[419, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 60% after allowing a commission of 40%', 133.33333333333337]
+
+[420, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 65% after allowing a commission of 15%', 144.44444444444446]
+
+[421, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 5% after allowing a commission of 5%', 11.111111111111114]
+
+[422, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 60% after allowing a commission of 35%', 133.33333333333337]
+
+[423, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 35% after allowing a commission of 40%', 77.77777777777777]
+
+[424, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 25% after allowing a commission of 25%', 55.55555555555554]
+
+[425, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 25% after allowing a commission of 25%', 55.55555555555554]
+
+[426, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 40% after allowing a commission of 50%', 88.88888888888891]
+
+[427, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 35% after allowing a commission of 15%', 77.77777777777777]
+
+[428, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 40% after allowing a commission of 25%', 88.88888888888891]
+
+[429, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 35% after allowing a commission of 5%', 77.77777777777777]
+
+[430, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 15% after allowing a commission of 10%', 33.33333333333334]
+
+[431, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 85% after allowing a commission of 50%', 188.8888888888889]
+
+[432, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 70% after allowing a commission of 45%', 155.55555555555554]
+
+[433, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 95% after allowing a commission of 10%', 211.1111111111111]
+
+[434, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 35% after allowing a commission of 20%', 77.77777777777777]
+
+[435, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 40% after allowing a commission of 35%', 88.88888888888891]
+
+[436, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 75% after allowing a commission of 40%', 166.66666666666674]
+
+[437, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 5% after allowing a commission of 15%', 11.111111111111114]
+
+[438, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 75% after allowing a commission of 45%', 166.66666666666674]
+
+[439, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 35% after allowing a commission of 15%', 77.77777777777777]
+
+[440, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 100% after allowing a commission of 35%', 222.22222222222217]
+
+[441, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 55% after allowing a commission of 40%', 122.22222222222229]
+
+[442, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 80% after allowing a commission of 5%', 177.77777777777783]
+
+[443, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 95% after allowing a commission of 5%', 211.1111111111111]
+
+[444, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 70% after allowing a commission of 25%', 155.55555555555554]
+
+[445, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 30% after allowing a commission of 30%', 66.66666666666669]
+
+[446, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 35% after allowing a commission of 50%', 77.77777777777777]
+
+[447, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 45% after allowing a commission of 40%', 100.0]
+
+[448, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 50% after allowing a commission of 10%', 111.11111111111109]
+
+[449, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 75% after allowing a commission of 40%', 166.66666666666674]
+
+[450, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 75% after allowing a commission of 35%', 166.66666666666674]
+
+[451, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 60% after allowing a commission of 50%', 133.33333333333337]
+
+[452, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 95% after allowing a commission of 25%', 211.1111111111111]
+
+[453, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 40% after allowing a commission of 5%', 88.88888888888891]
+
+[454, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 75% after allowing a commission of 15%', 166.66666666666674]
+
+[455, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 90% after allowing a commission of 15%', 200.0]
+
+[456, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 70% after allowing a commission of 15%', 155.55555555555554]
+
+[457, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 35% after allowing a commission of 25%', 77.77777777777777]
+
+[458, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 90% after allowing a commission of 15%', 200.0]
+
+[459, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 35% after allowing a commission of 45%', 77.77777777777777]
+
+[460, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 65% after allowing a commission of 40%', 144.44444444444446]
+
+[461, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 95% after allowing a commission of 20%', 211.1111111111111]
+
+[462, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 15% after allowing a commission of 40%', 33.33333333333334]
+
+[463, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 70% after allowing a commission of 15%', 155.55555555555554]
+
+[464, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 75% after allowing a commission of 10%', 166.66666666666674]
+
+[465, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 15% after allowing a commission of 15%', 33.33333333333334]
+
+[466, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 100% after allowing a commission of 45%', 222.22222222222217]
+
+[467, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 60% after allowing a commission of 30%', 133.33333333333337]
+
+[468, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 75% after allowing a commission of 15%', 166.66666666666674]
+
+[469, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 75% after allowing a commission of 10%', 166.66666666666674]
+
+[470, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 10% after allowing a commission of 30%', 22.22222222222223]
+
+[471, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 55% after allowing a commission of 45%', 122.22222222222229]
+
+[472, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 55% after allowing a commission of 30%', 122.22222222222229]
+
+[473, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 95% after allowing a commission of 25%', 211.1111111111111]
+
+[474, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 90% after allowing a commission of 25%', 200.0]
+
+[475, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 50% after allowing a commission of 15%', 111.11111111111109]
+
+[476, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 70% after allowing a commission of 45%', 155.55555555555554]
+
+[477, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 50% after allowing a commission of 20%', 111.11111111111109]
+
+[478, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 80% after allowing a commission of 5%', 177.77777777777783]
+
+[479, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 60% after allowing a commission of 40%', 133.33333333333337]
+
+[480, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 20% after allowing a commission of 35%', 44.44444444444446]
+
+[481, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 100% after allowing a commission of 35%', 222.22222222222217]
+
+[482, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 30% after allowing a commission of 35%', 66.66666666666669]
+
+[483, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 45% after allowing a commission of 30%', 100.0]
+
+[484, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 50% after allowing a commission of 50%', 111.11111111111109]
+
+[485, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 30% after allowing a commission of 25%', 66.66666666666669]
+
+[486, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 25% after allowing a commission of 10%', 55.55555555555554]
+
+[487, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 45% after allowing a commission of 25%', 100.0]
+
+[488, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 70% after allowing a commission of 40%', 155.55555555555554]
+
+[489, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 15% after allowing a commission of 25%', 33.33333333333334]
+
+[490, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 20% after allowing a commission of 40%', 44.44444444444446]
+
+[491, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 55% after allowing a commission of 35%', 122.22222222222229]
+
+[492, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 45% after allowing a commission of 35%', 100.0]
+
+[493, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 90% after allowing a commission of 20%', 200.0]
+
+[494, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 25% after allowing a commission of 45%', 55.55555555555554]
+
+[495, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 35% after allowing a commission of 25%', 77.77777777777777]
+
+[496, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 45% after allowing a commission of 40%', 100.0]
+
+[497, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 30% after allowing a commission of 5%', 66.66666666666669]
+
+[498, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 90% after allowing a commission of 20%', 200.0]
+
+[499, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 80% after allowing a commission of 30%', 177.77777777777783]
+
+[500, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 30% after allowing a commission of 35%', 66.66666666666669]
+
+[501, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 70% after allowing a commission of 25%', 155.55555555555554]
+
+[502, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 90% after allowing a commission of 30%', 200.0]
+
+[503, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 45% after allowing a commission of 35%', 100.0]
+
+[504, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 75% after allowing a commission of 20%', 166.66666666666674]
+
+[505, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 45% after allowing a commission of 10%', 100.0]
+
+[506, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 55% after allowing a commission of 50%', 122.22222222222229]
+
+[507, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 10% after allowing a commission of 40%', 22.22222222222223]
+
+[508, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 35% after allowing a commission of 5%', 77.77777777777777]
+
+[509, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 80% after allowing a commission of 5%', 177.77777777777783]
+
+[510, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 100% after allowing a commission of 50%', 222.22222222222217]
+
+[511, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 65% after allowing a commission of 10%', 144.44444444444446]
+
+[512, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 65% after allowing a commission of 5%', 144.44444444444446]
+
+[513, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 25% after allowing a commission of 15%', 55.55555555555554]
+
+[514, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 100% after allowing a commission of 15%', 222.22222222222217]
+
+[515, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 100% after allowing a commission of 40%', 222.22222222222217]
+
+[516, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 65% after allowing a commission of 15%', 144.44444444444446]
+
+[517, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 55% after allowing a commission of 25%', 122.22222222222229]
+
+[518, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 90% after allowing a commission of 5%', 200.0]
+
+[519, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 25% after allowing a commission of 30%', 55.55555555555554]
+
+[520, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 5% after allowing a commission of 30%', 11.111111111111114]
+
+[521, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 40% after allowing a commission of 35%', 88.88888888888891]
+
+[522, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 45% after allowing a commission of 10%', 100.0]
+
+[523, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 15% after allowing a commission of 10%', 33.33333333333334]
+
+[524, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 100% after allowing a commission of 15%', 222.22222222222217]
+
+[525, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 60% after allowing a commission of 40%', 133.33333333333337]
+
+[526, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 35% after allowing a commission of 15%', 77.77777777777777]
+
+[527, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 65% after allowing a commission of 40%', 144.44444444444446]
+
+[528, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 45% after allowing a commission of 50%', 100.0]
+
+[529, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 80% after allowing a commission of 5%', 177.77777777777783]
+
+[530, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 45% after allowing a commission of 5%', 100.0]
+
+[531, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 75% after allowing a commission of 40%', 166.66666666666674]
+
+[532, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 10% after allowing a commission of 15%', 22.22222222222223]
+
+[533, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 50% after allowing a commission of 30%', 111.11111111111109]
+
+[534, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 35% after allowing a commission of 30%', 77.77777777777777]
+
+[535, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 60% after allowing a commission of 15%', 133.33333333333337]
+
+[536, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 20% after allowing a commission of 45%', 44.44444444444446]
+
+[537, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 35% after allowing a commission of 10%', 77.77777777777777]
+
+[538, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 70% after allowing a commission of 35%', 155.55555555555554]
+
+[539, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 20% after allowing a commission of 25%', 44.44444444444446]
+
+[540, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 15% after allowing a commission of 30%', 33.33333333333334]
+
+[541, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 95% after allowing a commission of 45%', 211.1111111111111]
+
+[542, 'type ->', '7', 'By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of 40% after allowing a commission of 25%', 88.88888888888891]
+

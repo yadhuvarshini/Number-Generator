@@ -1,0 +1,390 @@
+[1, 'A man buys a cycle for 6440 and sells it at a loss of 90%. What is the selling price of the cycle?', 12236.0, '\n']
+['options are', 'option a', 12286.0, 'option b', 674.0, 'option c', 744.0, 'answer', 12236.0]
+['solution is', ' CP of cycle =6440, loss = 90% SP=6440*(1-(90/100))  =6440*(100-90)/100 =6440*(100-90)/100 Rs', 12236.0]
+
+
+[2, 'A man buys a cycle for 8520 and sells it at a loss of 75%. What is the selling price of the cycle?', 14910.0, '\n']
+['options are', 'option a', 14960.0, 'option b', 2160.0, 'option c', 2230.0, 'answer', 14910.0]
+['solution is', ' CP of cycle =8520, loss = 75% SP=8520*(1-(75/100))  =8520*(100-75)/100 =8520*(100-75)/100 Rs', 14910.0]
+
+
+[3, 'A man buys a cycle for 2590 and sells it at a loss of 45%. What is the selling price of the cycle?', 3755.5, '\n']
+['options are', 'option a', 3805.5, 'option b', 1454.5, 'option c', 1524.5, 'answer', 3755.5]
+['solution is', ' CP of cycle =2590, loss = 45% SP=2590*(1-(45/100))  =2590*(100-45)/100 =2590*(100-45)/100 Rs', 3755.5]
+
+
+[4, 'A man buys a cycle for 6180 and sells it at a loss of 100%. What is the selling price of the cycle?', 12360.0, '\n']
+['options are', 'option a', 12410.0, 'option b', 30.0, 'option c', 100.0, 'answer', 12360.0]
+['solution is', ' CP of cycle =6180, loss = 100% SP=6180*(1-(100/100))  =6180*(100-100)/100 =6180*(100-100)/100 Rs', 12360.0]
+
+
+[5, 'A man buys a cycle for 9620 and sells it at a loss of 65%. What is the selling price of the cycle?', 15873.0, '\n']
+['options are', 'option a', 15923.0, 'option b', 3397.0, 'option c', 3467.0, 'answer', 15873.0]
+['solution is', ' CP of cycle =9620, loss = 65% SP=9620*(1-(65/100))  =9620*(100-65)/100 =9620*(100-65)/100 Rs', 15873.0]
+
+
+[6, 'A man buys a cycle for 2130 and sells it at a loss of 20%. What is the selling price of the cycle?', 2556.0, '\n']
+['options are', 'option a', 2606.0, 'option b', 1734.0, 'option c', 1804.0, 'answer', 2556.0]
+['solution is', ' CP of cycle =2130, loss = 20% SP=2130*(1-(20/100))  =2130*(100-20)/100 =2130*(100-20)/100 Rs', 2556.0]
+
+
+[7, 'A man buys a cycle for 8630 and sells it at a loss of 45%. What is the selling price of the cycle?', 12513.5, '\n']
+['options are', 'option a', 12563.5, 'option b', 4776.5, 'option c', 4846.5, 'answer', 12513.5]
+['solution is', ' CP of cycle =8630, loss = 45% SP=8630*(1-(45/100))  =8630*(100-45)/100 =8630*(100-45)/100 Rs', 12513.5]
+
+
+[8, 'A man buys a cycle for 9380 and sells it at a loss of 65%. What is the selling price of the cycle?', 15477.0, '\n']
+['options are', 'option a', 15527.0, 'option b', 3313.0, 'option c', 3383.0, 'answer', 15477.0]
+['solution is', ' CP of cycle =9380, loss = 65% SP=9380*(1-(65/100))  =9380*(100-65)/100 =9380*(100-65)/100 Rs', 15477.0]
+
+
+[9, 'A man buys a cycle for 8500 and sells it at a loss of 80%. What is the selling price of the cycle?', 15300.0, '\n']
+['options are', 'option a', 15350.0, 'option b', 1730.0, 'option c', 1800.0, 'answer', 15300.0]
+['solution is', ' CP of cycle =8500, loss = 80% SP=8500*(1-(80/100))  =8500*(100-80)/100 =8500*(100-80)/100 Rs', 15300.0]
+
+
+[10, 'A man buys a cycle for 8900 and sells it at a loss of 85%. What is the selling price of the cycle?', 16465.0, '\n']
+['options are', 'option a', 16515.0, 'option b', 1365.0, 'option c', 1435.0, 'answer', 16465.0]
+['solution is', ' CP of cycle =8900, loss = 85% SP=8900*(1-(85/100))  =8900*(100-85)/100 =8900*(100-85)/100 Rs', 16465.0]
+
+
+[11, 'A man buys a cycle for 4660 and sells it at a loss of 35%. What is the selling price of the cycle?', 6291.0, '\n']
+['options are', 'option a', 6341.0, 'option b', 3059.0, 'option c', 3129.0, 'answer', 6291.0]
+['solution is', ' CP of cycle =4660, loss = 35% SP=4660*(1-(35/100))  =4660*(100-35)/100 =4660*(100-35)/100 Rs', 6291.0]
+
+
+[12, 'A man buys a cycle for 6920 and sells it at a loss of 65%. What is the selling price of the cycle?', 11418.0, '\n']
+['options are', 'option a', 11468.0, 'option b', 2452.0, 'option c', 2522.0, 'answer', 11418.0]
+['solution is', ' CP of cycle =6920, loss = 65% SP=6920*(1-(65/100))  =6920*(100-65)/100 =6920*(100-65)/100 Rs', 11418.0]
+
+
+[13, 'A man buys a cycle for 2420 and sells it at a loss of 60%. What is the selling price of the cycle?', 3872.0, '\n']
+['options are', 'option a', 3922.0, 'option b', 998.0, 'option c', 1068.0, 'answer', 3872.0]
+['solution is', ' CP of cycle =2420, loss = 60% SP=2420*(1-(60/100))  =2420*(100-60)/100 =2420*(100-60)/100 Rs', 3872.0]
+
+
+[14, 'A man buys a cycle for 9600 and sells it at a loss of 30%. What is the selling price of the cycle?', 12480.0, '\n']
+['options are', 'option a', 12530.0, 'option b', 6750.0, 'option c', 6820.0, 'answer', 12480.0]
+['solution is', ' CP of cycle =9600, loss = 30% SP=9600*(1-(30/100))  =9600*(100-30)/100 =9600*(100-30)/100 Rs', 12480.0]
+
+
+[15, 'A man buys a cycle for 1910 and sells it at a loss of 45%. What is the selling price of the cycle?', 2769.5, '\n']
+['options are', 'option a', 2819.5, 'option b', 1080.5, 'option c', 1150.5, 'answer', 2769.5]
+['solution is', ' CP of cycle =1910, loss = 45% SP=1910*(1-(45/100))  =1910*(100-45)/100 =1910*(100-45)/100 Rs', 2769.5]
+
+
+[16, 'A man buys a cycle for 5520 and sells it at a loss of 10%. What is the selling price of the cycle?', 6072.0, '\n']
+['options are', 'option a', 6122.0, 'option b', 4998.0, 'option c', 5068.0, 'answer', 6072.0]
+['solution is', ' CP of cycle =5520, loss = 10% SP=5520*(1-(10/100))  =5520*(100-10)/100 =5520*(100-10)/100 Rs', 6072.0]
+
+
+[17, 'A man buys a cycle for 2620 and sells it at a loss of 85%. What is the selling price of the cycle?', 4847.0, '\n']
+['options are', 'option a', 4897.0, 'option b', 423.0, 'option c', 493.0, 'answer', 4847.0]
+['solution is', ' CP of cycle =2620, loss = 85% SP=2620*(1-(85/100))  =2620*(100-85)/100 =2620*(100-85)/100 Rs', 4847.0]
+
+
+[18, 'A man buys a cycle for 1260 and sells it at a loss of 5%. What is the selling price of the cycle?', 1323.0, '\n']
+['options are', 'option a', 1373.0, 'option b', 1227.0, 'option c', 1297.0, 'answer', 1323.0]
+['solution is', ' CP of cycle =1260, loss = 5% SP=1260*(1-(5/100))  =1260*(100-5)/100 =1260*(100-5)/100 Rs', 1323.0]
+
+
+[19, 'A man buys a cycle for 1970 and sells it at a loss of 90%. What is the selling price of the cycle?', 3743.0, '\n']
+['options are', 'option a', 3793.0, 'option b', 227.0, 'option c', 297.0, 'answer', 3743.0]
+['solution is', ' CP of cycle =1970, loss = 90% SP=1970*(1-(90/100))  =1970*(100-90)/100 =1970*(100-90)/100 Rs', 3743.0]
+
+
+[20, 'A man buys a cycle for 8910 and sells it at a loss of 70%. What is the selling price of the cycle?', 15147.0, '\n']
+['options are', 'option a', 15197.0, 'option b', 2703.0, 'option c', 2773.0, 'answer', 15147.0]
+['solution is', ' CP of cycle =8910, loss = 70% SP=8910*(1-(70/100))  =8910*(100-70)/100 =8910*(100-70)/100 Rs', 15147.0]
+
+
+[21, 'A man buys a cycle for 9140 and sells it at a loss of 90%. What is the selling price of the cycle?', 17366.0, '\n']
+['options are', 'option a', 17416.0, 'option b', 944.0, 'option c', 1014.0, 'answer', 17366.0]
+['solution is', ' CP of cycle =9140, loss = 90% SP=9140*(1-(90/100))  =9140*(100-90)/100 =9140*(100-90)/100 Rs', 17366.0]
+
+
+[22, 'A man buys a cycle for 1480 and sells it at a loss of 70%. What is the selling price of the cycle?', 2516.0, '\n']
+['options are', 'option a', 2566.0, 'option b', 474.0, 'option c', 544.0, 'answer', 2516.0]
+['solution is', ' CP of cycle =1480, loss = 70% SP=1480*(1-(70/100))  =1480*(100-70)/100 =1480*(100-70)/100 Rs', 2516.0]
+
+
+[23, 'A man buys a cycle for 6230 and sells it at a loss of 85%. What is the selling price of the cycle?', 11525.5, '\n']
+['options are', 'option a', 11575.5, 'option b', 964.5, 'option c', 1034.5, 'answer', 11525.5]
+['solution is', ' CP of cycle =6230, loss = 85% SP=6230*(1-(85/100))  =6230*(100-85)/100 =6230*(100-85)/100 Rs', 11525.5]
+
+
+[24, 'A man buys a cycle for 3100 and sells it at a loss of 60%. What is the selling price of the cycle?', 4960.0, '\n']
+['options are', 'option a', 5010.0, 'option b', 1270.0, 'option c', 1340.0, 'answer', 4960.0]
+['solution is', ' CP of cycle =3100, loss = 60% SP=3100*(1-(60/100))  =3100*(100-60)/100 =3100*(100-60)/100 Rs', 4960.0]
+
+
+[25, 'A man buys a cycle for 3450 and sells it at a loss of 50%. What is the selling price of the cycle?', 5175.0, '\n']
+['options are', 'option a', 5225.0, 'option b', 1755.0, 'option c', 1825.0, 'answer', 5175.0]
+['solution is', ' CP of cycle =3450, loss = 50% SP=3450*(1-(50/100))  =3450*(100-50)/100 =3450*(100-50)/100 Rs', 5175.0]
+
+
+[26, 'A man buys a cycle for 7850 and sells it at a loss of 25%. What is the selling price of the cycle?', 9812.5, '\n']
+['options are', 'option a', 9862.5, 'option b', 5917.5, 'option c', 5987.5, 'answer', 9812.5]
+['solution is', ' CP of cycle =7850, loss = 25% SP=7850*(1-(25/100))  =7850*(100-25)/100 =7850*(100-25)/100 Rs', 9812.5]
+
+
+[27, 'A man buys a cycle for 3040 and sells it at a loss of 40%. What is the selling price of the cycle?', 4256.0, '\n']
+['options are', 'option a', 4306.0, 'option b', 1854.0, 'option c', 1924.0, 'answer', 4256.0]
+['solution is', ' CP of cycle =3040, loss = 40% SP=3040*(1-(40/100))  =3040*(100-40)/100 =3040*(100-40)/100 Rs', 4256.0]
+
+
+[28, 'A man buys a cycle for 1700 and sells it at a loss of 70%. What is the selling price of the cycle?', 2890.0, '\n']
+['options are', 'option a', 2940.0, 'option b', 540.0, 'option c', 610.0, 'answer', 2890.0]
+['solution is', ' CP of cycle =1700, loss = 70% SP=1700*(1-(70/100))  =1700*(100-70)/100 =1700*(100-70)/100 Rs', 2890.0]
+
+
+[29, 'A man buys a cycle for 6240 and sells it at a loss of 35%. What is the selling price of the cycle?', 8424.0, '\n']
+['options are', 'option a', 8474.0, 'option b', 4086.0, 'option c', 4156.0, 'answer', 8424.0]
+['solution is', ' CP of cycle =6240, loss = 35% SP=6240*(1-(35/100))  =6240*(100-35)/100 =6240*(100-35)/100 Rs', 8424.0]
+
+
+[30, 'A man buys a cycle for 3220 and sells it at a loss of 85%. What is the selling price of the cycle?', 5957.0, '\n']
+['options are', 'option a', 6007.0, 'option b', 513.0, 'option c', 583.0, 'answer', 5957.0]
+['solution is', ' CP of cycle =3220, loss = 85% SP=3220*(1-(85/100))  =3220*(100-85)/100 =3220*(100-85)/100 Rs', 5957.0]
+
+
+[31, 'A man buys a cycle for 8920 and sells it at a loss of 80%. What is the selling price of the cycle?', 16056.0, '\n']
+['options are', 'option a', 16106.0, 'option b', 1814.0, 'option c', 1884.0, 'answer', 16056.0]
+['solution is', ' CP of cycle =8920, loss = 80% SP=8920*(1-(80/100))  =8920*(100-80)/100 =8920*(100-80)/100 Rs', 16056.0]
+
+
+[32, 'A man buys a cycle for 5110 and sells it at a loss of 65%. What is the selling price of the cycle?', 8431.5, '\n']
+['options are', 'option a', 8481.5, 'option b', 1818.5, 'option c', 1888.5, 'answer', 8431.5]
+['solution is', ' CP of cycle =5110, loss = 65% SP=5110*(1-(65/100))  =5110*(100-65)/100 =5110*(100-65)/100 Rs', 8431.5]
+
+
+[33, 'A man buys a cycle for 4400 and sells it at a loss of 55%. What is the selling price of the cycle?', 6820.0, '\n']
+['options are', 'option a', 6870.0, 'option b', 2010.0, 'option c', 2080.0, 'answer', 6820.0]
+['solution is', ' CP of cycle =4400, loss = 55% SP=4400*(1-(55/100))  =4400*(100-55)/100 =4400*(100-55)/100 Rs', 6820.0]
+
+
+[34, 'A man buys a cycle for 2520 and sells it at a loss of 10%. What is the selling price of the cycle?', 2772.0, '\n']
+['options are', 'option a', 2822.0, 'option b', 2298.0, 'option c', 2368.0, 'answer', 2772.0]
+['solution is', ' CP of cycle =2520, loss = 10% SP=2520*(1-(10/100))  =2520*(100-10)/100 =2520*(100-10)/100 Rs', 2772.0]
+
+
+[35, 'A man buys a cycle for 4830 and sells it at a loss of 5%. What is the selling price of the cycle?', 5071.5, '\n']
+['options are', 'option a', 5121.5, 'option b', 4618.5, 'option c', 4688.5, 'answer', 5071.5]
+['solution is', ' CP of cycle =4830, loss = 5% SP=4830*(1-(5/100))  =4830*(100-5)/100 =4830*(100-5)/100 Rs', 5071.5]
+
+
+[36, 'A man buys a cycle for 2740 and sells it at a loss of 70%. What is the selling price of the cycle?', 4658.0, '\n']
+['options are', 'option a', 4708.0, 'option b', 852.0, 'option c', 922.0, 'answer', 4658.0]
+['solution is', ' CP of cycle =2740, loss = 70% SP=2740*(1-(70/100))  =2740*(100-70)/100 =2740*(100-70)/100 Rs', 4658.0]
+
+
+[37, 'A man buys a cycle for 1310 and sells it at a loss of 90%. What is the selling price of the cycle?', 2489.0, '\n']
+['options are', 'option a', 2539.0, 'option b', 161.0, 'option c', 231.0, 'answer', 2489.0]
+['solution is', ' CP of cycle =1310, loss = 90% SP=1310*(1-(90/100))  =1310*(100-90)/100 =1310*(100-90)/100 Rs', 2489.0]
+
+
+[38, 'A man buys a cycle for 8980 and sells it at a loss of 95%. What is the selling price of the cycle?', 17511.0, '\n']
+['options are', 'option a', 17561.0, 'option b', 479.0, 'option c', 549.0, 'answer', 17511.0]
+['solution is', ' CP of cycle =8980, loss = 95% SP=8980*(1-(95/100))  =8980*(100-95)/100 =8980*(100-95)/100 Rs', 17511.0]
+
+
+[39, 'A man buys a cycle for 8500 and sells it at a loss of 100%. What is the selling price of the cycle?', 17000.0, '\n']
+['options are', 'option a', 17050.0, 'option b', 30.0, 'option c', 100.0, 'answer', 17000.0]
+['solution is', ' CP of cycle =8500, loss = 100% SP=8500*(1-(100/100))  =8500*(100-100)/100 =8500*(100-100)/100 Rs', 17000.0]
+
+
+[40, 'A man buys a cycle for 1150 and sells it at a loss of 45%. What is the selling price of the cycle?', 1667.5, '\n']
+['options are', 'option a', 1717.5, 'option b', 662.5, 'option c', 732.5, 'answer', 1667.5]
+['solution is', ' CP of cycle =1150, loss = 45% SP=1150*(1-(45/100))  =1150*(100-45)/100 =1150*(100-45)/100 Rs', 1667.5]
+
+
+[41, 'A man buys a cycle for 2950 and sells it at a loss of 85%. What is the selling price of the cycle?', 5457.5, '\n']
+['options are', 'option a', 5507.5, 'option b', 472.5, 'option c', 542.5, 'answer', 5457.5]
+['solution is', ' CP of cycle =2950, loss = 85% SP=2950*(1-(85/100))  =2950*(100-85)/100 =2950*(100-85)/100 Rs', 5457.5]
+
+
+[42, 'A man buys a cycle for 8230 and sells it at a loss of 95%. What is the selling price of the cycle?', 16048.5, '\n']
+['options are', 'option a', 16098.5, 'option b', 441.5, 'option c', 511.5, 'answer', 16048.5]
+['solution is', ' CP of cycle =8230, loss = 95% SP=8230*(1-(95/100))  =8230*(100-95)/100 =8230*(100-95)/100 Rs', 16048.5]
+
+
+[1, 'A man buys a cycle for 6300 and sells it at a loss of 90%. What is the selling price of the cycle?', 11970.0, '\n']
+['options are', 'option a', 12020.0, 'option b', 660.0, 'option c', 730.0, 'answer', 11970.0]
+['solution is', ' CP of cycle =6300, loss = 90% SP=6300*(1-(90/100))  =6300*(100-90)/100 =6300*(100-90)/100 Rs', 11970.0]
+
+
+[2, 'A man buys a cycle for 2340 and sells it at a loss of 100%. What is the selling price of the cycle?', 4680.0, '\n']
+['options are', 'option a', 4730.0, 'option b', 30.0, 'option c', 100.0, 'answer', 4680.0]
+['solution is', ' CP of cycle =2340, loss = 100% SP=2340*(1-(100/100))  =2340*(100-100)/100 =2340*(100-100)/100 Rs', 4680.0]
+
+
+[3, 'A man buys a cycle for 9610 and sells it at a loss of 15%. What is the selling price of the cycle?', 11051.5, '\n']
+['options are', 'option a', 11101.5, 'option b', 8198.5, 'option c', 8268.5, 'answer', 11051.5]
+['solution is', ' CP of cycle =9610, loss = 15% SP=9610*(1-(15/100))  =9610*(100-15)/100 =9610*(100-15)/100 Rs', 11051.5]
+
+
+[4, 'A man buys a cycle for 3760 and sells it at a loss of 50%. What is the selling price of the cycle?', 5640.0, '\n']
+['options are', 'option a', 5690.0, 'option b', 1910.0, 'option c', 1980.0, 'answer', 5640.0]
+['solution is', ' CP of cycle =3760, loss = 50% SP=3760*(1-(50/100))  =3760*(100-50)/100 =3760*(100-50)/100 Rs', 5640.0]
+
+
+[5, 'A man buys a cycle for 3170 and sells it at a loss of 55%. What is the selling price of the cycle?', 4913.5, '\n']
+['options are', 'option a', 4963.5, 'option b', 1456.5, 'option c', 1526.5, 'answer', 4913.5]
+['solution is', ' CP of cycle =3170, loss = 55% SP=3170*(1-(55/100))  =3170*(100-55)/100 =3170*(100-55)/100 Rs', 4913.5]
+
+
+[6, 'A man buys a cycle for 2130 and sells it at a loss of 95%. What is the selling price of the cycle?', 4153.5, '\n']
+['options are', 'option a', 4203.5, 'option b', 136.5, 'option c', 206.5, 'answer', 4153.5]
+['solution is', ' CP of cycle =2130, loss = 95% SP=2130*(1-(95/100))  =2130*(100-95)/100 =2130*(100-95)/100 Rs', 4153.5]
+
+
+[7, 'A man buys a cycle for 6510 and sells it at a loss of 70%. What is the selling price of the cycle?', 11067.0, '\n']
+['options are', 'option a', 11117.0, 'option b', 1983.0, 'option c', 2053.0, 'answer', 11067.0]
+['solution is', ' CP of cycle =6510, loss = 70% SP=6510*(1-(70/100))  =6510*(100-70)/100 =6510*(100-70)/100 Rs', 11067.0]
+
+
+[8, 'A man buys a cycle for 8830 and sells it at a loss of 60%. What is the selling price of the cycle?', 14128.0, '\n']
+['options are', 'option a', 14178.0, 'option b', 3562.0, 'option c', 3632.0, 'answer', 14128.0]
+['solution is', ' CP of cycle =8830, loss = 60% SP=8830*(1-(60/100))  =8830*(100-60)/100 =8830*(100-60)/100 Rs', 14128.0]
+
+
+[9, 'A man buys a cycle for 5200 and sells it at a loss of 85%. What is the selling price of the cycle?', 9620.0, '\n']
+['options are', 'option a', 9670.0, 'option b', 810.0, 'option c', 880.0, 'answer', 9620.0]
+['solution is', ' CP of cycle =5200, loss = 85% SP=5200*(1-(85/100))  =5200*(100-85)/100 =5200*(100-85)/100 Rs', 9620.0]
+
+
+[10, 'A man buys a cycle for 3690 and sells it at a loss of 35%. What is the selling price of the cycle?', 4981.5, '\n']
+['options are', 'option a', 5031.5, 'option b', 2428.5, 'option c', 2498.5, 'answer', 4981.5]
+['solution is', ' CP of cycle =3690, loss = 35% SP=3690*(1-(35/100))  =3690*(100-35)/100 =3690*(100-35)/100 Rs', 4981.5]
+
+
+[11, 'A man buys a cycle for 4750 and sells it at a loss of 85%. What is the selling price of the cycle?', 8787.5, '\n']
+['options are', 'option a', 8837.5, 'option b', 742.5, 'option c', 812.5, 'answer', 8787.5]
+['solution is', ' CP of cycle =4750, loss = 85% SP=4750*(1-(85/100))  =4750*(100-85)/100 =4750*(100-85)/100 Rs', 8787.5]
+
+
+[12, 'A man buys a cycle for 5920 and sells it at a loss of 10%. What is the selling price of the cycle?', 6512.0, '\n']
+['options are', 'option a', 6562.0, 'option b', 5358.0, 'option c', 5428.0, 'answer', 6512.0]
+['solution is', ' CP of cycle =5920, loss = 10% SP=5920*(1-(10/100))  =5920*(100-10)/100 =5920*(100-10)/100 Rs', 6512.0]
+
+
+[13, 'A man buys a cycle for 1110 and sells it at a loss of 5%. What is the selling price of the cycle?', 1165.5, '\n']
+['options are', 'option a', 1215.5, 'option b', 1084.5, 'option c', 1154.5, 'answer', 1165.5]
+['solution is', ' CP of cycle =1110, loss = 5% SP=1110*(1-(5/100))  =1110*(100-5)/100 =1110*(100-5)/100 Rs', 1165.5]
+
+
+[14, 'A man buys a cycle for 3560 and sells it at a loss of 65%. What is the selling price of the cycle?', 5874.0, '\n']
+['options are', 'option a', 5924.0, 'option b', 1276.0, 'option c', 1346.0, 'answer', 5874.0]
+['solution is', ' CP of cycle =3560, loss = 65% SP=3560*(1-(65/100))  =3560*(100-65)/100 =3560*(100-65)/100 Rs', 5874.0]
+
+
+[15, 'A man buys a cycle for 2850 and sells it at a loss of 5%. What is the selling price of the cycle?', 2992.5, '\n']
+['options are', 'option a', 3042.5, 'option b', 2737.5, 'option c', 2807.5, 'answer', 2992.5]
+['solution is', ' CP of cycle =2850, loss = 5% SP=2850*(1-(5/100))  =2850*(100-5)/100 =2850*(100-5)/100 Rs', 2992.5]
+
+
+[16, 'A man buys a cycle for 8870 and sells it at a loss of 10%. What is the selling price of the cycle?', 9757.0, '\n']
+['options are', 'option a', 9807.0, 'option b', 8013.0, 'option c', 8083.0, 'answer', 9757.0]
+['solution is', ' CP of cycle =8870, loss = 10% SP=8870*(1-(10/100))  =8870*(100-10)/100 =8870*(100-10)/100 Rs', 9757.0]
+
+
+[17, 'A man buys a cycle for 8850 and sells it at a loss of 10%. What is the selling price of the cycle?', 9735.0, '\n']
+['options are', 'option a', 9785.0, 'option b', 7995.0, 'option c', 8065.0, 'answer', 9735.0]
+['solution is', ' CP of cycle =8850, loss = 10% SP=8850*(1-(10/100))  =8850*(100-10)/100 =8850*(100-10)/100 Rs', 9735.0]
+
+
+[18, 'A man buys a cycle for 6790 and sells it at a loss of 55%. What is the selling price of the cycle?', 10524.5, '\n']
+['options are', 'option a', 10574.5, 'option b', 3085.5, 'option c', 3155.5, 'answer', 10524.5]
+['solution is', ' CP of cycle =6790, loss = 55% SP=6790*(1-(55/100))  =6790*(100-55)/100 =6790*(100-55)/100 Rs', 10524.5]
+
+
+[19, 'A man buys a cycle for 5090 and sells it at a loss of 45%. What is the selling price of the cycle?', 7380.5, '\n']
+['options are', 'option a', 7430.5, 'option b', 2829.5, 'option c', 2899.5, 'answer', 7380.5]
+['solution is', ' CP of cycle =5090, loss = 45% SP=5090*(1-(45/100))  =5090*(100-45)/100 =5090*(100-45)/100 Rs', 7380.5]
+
+
+[20, 'A man buys a cycle for 2180 and sells it at a loss of 70%. What is the selling price of the cycle?', 3706.0, '\n']
+['options are', 'option a', 3756.0, 'option b', 684.0, 'option c', 754.0, 'answer', 3706.0]
+['solution is', ' CP of cycle =2180, loss = 70% SP=2180*(1-(70/100))  =2180*(100-70)/100 =2180*(100-70)/100 Rs', 3706.0]
+
+
+[21, 'A man buys a cycle for 8480 and sells it at a loss of 40%. What is the selling price of the cycle?', 11872.0, '\n']
+['options are', 'option a', 11922.0, 'option b', 5118.0, 'option c', 5188.0, 'answer', 11872.0]
+['solution is', ' CP of cycle =8480, loss = 40% SP=8480*(1-(40/100))  =8480*(100-40)/100 =8480*(100-40)/100 Rs', 11872.0]
+
+
+[22, 'A man buys a cycle for 5870 and sells it at a loss of 70%. What is the selling price of the cycle?', 9979.0, '\n']
+['options are', 'option a', 10029.0, 'option b', 1791.0, 'option c', 1861.0, 'answer', 9979.0]
+['solution is', ' CP of cycle =5870, loss = 70% SP=5870*(1-(70/100))  =5870*(100-70)/100 =5870*(100-70)/100 Rs', 9979.0]
+
+
+[23, 'A man buys a cycle for 5410 and sells it at a loss of 90%. What is the selling price of the cycle?', 10279.0, '\n']
+['options are', 'option a', 10329.0, 'option b', 571.0, 'option c', 641.0, 'answer', 10279.0]
+['solution is', ' CP of cycle =5410, loss = 90% SP=5410*(1-(90/100))  =5410*(100-90)/100 =5410*(100-90)/100 Rs', 10279.0]
+
+
+[24, 'A man buys a cycle for 5920 and sells it at a loss of 80%. What is the selling price of the cycle?', 10656.0, '\n']
+['options are', 'option a', 10706.0, 'option b', 1214.0, 'option c', 1284.0, 'answer', 10656.0]
+['solution is', ' CP of cycle =5920, loss = 80% SP=5920*(1-(80/100))  =5920*(100-80)/100 =5920*(100-80)/100 Rs', 10656.0]
+
+
+[25, 'A man buys a cycle for 8930 and sells it at a loss of 80%. What is the selling price of the cycle?', 16074.0, '\n']
+['options are', 'option a', 16124.0, 'option b', 1816.0, 'option c', 1886.0, 'answer', 16074.0]
+['solution is', ' CP of cycle =8930, loss = 80% SP=8930*(1-(80/100))  =8930*(100-80)/100 =8930*(100-80)/100 Rs', 16074.0]
+
+
+[26, 'A man buys a cycle for 5910 and sells it at a loss of 90%. What is the selling price of the cycle?', 11229.0, '\n']
+['options are', 'option a', 11279.0, 'option b', 621.0, 'option c', 691.0, 'answer', 11229.0]
+['solution is', ' CP of cycle =5910, loss = 90% SP=5910*(1-(90/100))  =5910*(100-90)/100 =5910*(100-90)/100 Rs', 11229.0]
+
+
+[27, 'A man buys a cycle for 7770 and sells it at a loss of 15%. What is the selling price of the cycle?', 8935.5, '\n']
+['options are', 'option a', 8985.5, 'option b', 6634.5, 'option c', 6704.5, 'answer', 8935.5]
+['solution is', ' CP of cycle =7770, loss = 15% SP=7770*(1-(15/100))  =7770*(100-15)/100 =7770*(100-15)/100 Rs', 8935.5]
+
+
+[28, 'A man buys a cycle for 2690 and sells it at a loss of 95%. What is the selling price of the cycle?', 5245.5, '\n']
+['options are', 'option a', 5295.5, 'option b', 164.5, 'option c', 234.5, 'answer', 5245.5]
+['solution is', ' CP of cycle =2690, loss = 95% SP=2690*(1-(95/100))  =2690*(100-95)/100 =2690*(100-95)/100 Rs', 5245.5]
+
+
+[29, 'A man buys a cycle for 1500 and sells it at a loss of 50%. What is the selling price of the cycle?', 2250.0, '\n']
+['options are', 'option a', 2300.0, 'option b', 780.0, 'option c', 850.0, 'answer', 2250.0]
+['solution is', ' CP of cycle =1500, loss = 50% SP=1500*(1-(50/100))  =1500*(100-50)/100 =1500*(100-50)/100 Rs', 2250.0]
+
+
+[30, 'A man buys a cycle for 7270 and sells it at a loss of 50%. What is the selling price of the cycle?', 10905.0, '\n']
+['options are', 'option a', 10955.0, 'option b', 3665.0, 'option c', 3735.0, 'answer', 10905.0]
+['solution is', ' CP of cycle =7270, loss = 50% SP=7270*(1-(50/100))  =7270*(100-50)/100 =7270*(100-50)/100 Rs', 10905.0]
+
+
+[31, 'A man buys a cycle for 7600 and sells it at a loss of 85%. What is the selling price of the cycle?', 14060.0, '\n']
+['options are', 'option a', 14110.0, 'option b', 1170.0, 'option c', 1240.0, 'answer', 14060.0]
+['solution is', ' CP of cycle =7600, loss = 85% SP=7600*(1-(85/100))  =7600*(100-85)/100 =7600*(100-85)/100 Rs', 14060.0]
+
+
+[32, 'A man buys a cycle for 10000 and sells it at a loss of 15%. What is the selling price of the cycle?', 11500.0, '\n']
+['options are', 'option a', 11550.0, 'option b', 8530.0, 'option c', 8600.0, 'answer', 11500.0]
+['solution is', ' CP of cycle =10000, loss = 15% SP=10000*(1-(15/100))  =10000*(100-15)/100 =10000*(100-15)/100 Rs', 11500.0]
+
+
+[33, 'A man buys a cycle for 6520 and sells it at a loss of 30%. What is the selling price of the cycle?', 8476.0, '\n']
+['options are', 'option a', 8526.0, 'option b', 4594.0, 'option c', 4664.0, 'answer', 8476.0]
+['solution is', ' CP of cycle =6520, loss = 30% SP=6520*(1-(30/100))  =6520*(100-30)/100 =6520*(100-30)/100 Rs', 8476.0]
+
+
+[34, 'A man buys a cycle for 9600 and sells it at a loss of 50%. What is the selling price of the cycle?', 14400.0, '\n']
+['options are', 'option a', 14450.0, 'option b', 4830.0, 'option c', 4900.0, 'answer', 14400.0]
+['solution is', ' CP of cycle =9600, loss = 50% SP=9600*(1-(50/100))  =9600*(100-50)/100 =9600*(100-50)/100 Rs', 14400.0]
+
+
+[35, 'A man buys a cycle for 7140 and sells it at a loss of 25%. What is the selling price of the cycle?', 8925.0, '\n']
+['options are', 'option a', 8975.0, 'option b', 5385.0, 'option c', 5455.0, 'answer', 8925.0]
+['solution is', ' CP of cycle =7140, loss = 25% SP=7140*(1-(25/100))  =7140*(100-25)/100 =7140*(100-25)/100 Rs', 8925.0]
+
+
+[36, 'A man buys a cycle for 1910 and sells it at a loss of 40%. What is the selling price of the cycle?', 2674.0, '\n']
+['options are', 'option a', 2724.0, 'option b', 1176.0, 'option c', 1246.0, 'answer', 2674.0]
+['solution is', ' CP of cycle =1910, loss = 40% SP=1910*(1-(40/100))  =1910*(100-40)/100 =1910*(100-40)/100 Rs', 2674.0]
+
+

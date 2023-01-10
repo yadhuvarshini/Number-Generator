@@ -1,0 +1,27 @@
+{
+    "1":{
+        "question":"Two pipes A and B can fill a tank in (a) minutes and (b) minutes respectively. If both pipes are opened together, the time taken to fill the tank is",
+        "formula":"(a*b)/(a+b)",
+        "max_a":"300",
+        "min_a":"5",
+        "max_b":"300",
+        "min_b":"5"
+    },
+    "2":{
+        "question":" A tap can empty a tank in (a) minutes . A second tap can empty it in (b) minutes. If both the taps operate simultaneously, how much time is needed to empty the tank?",
+        "formula":"(a*b)/(a+b)",
+        "max_a":"300",
+        "min_a":"5",
+        "max_b":"300",
+        "min_b":"5"
+    },
+    "3":{
+        "question":" A cistern can be filled with water by a pipe in (a) hours and it can be emptied by a second pipe in (b) hours. If both the pipes are opened when the cistern is full, the time in which it will be emptied is:",
+        "formula":"(a*b)",
+        "max_a":"30",
+        "min_a":"1",
+        "max_b":"30",
+        "min_b":"1"
+    }
+
+}

@@ -1,0 +1,79 @@
+{   "1":
+        {
+            "question": "A man buys an article for (a) and sells the article for (b). What is the profit percentage?",
+            "formula": "((b-a)/a)*100",
+            "max_a":"10000",
+            "max_b":"100",
+            "min_a":"1000",
+            "min_b":"10",
+            "range_a":"100",
+            "range_b":"10"
+        },
+
+    "2":
+        {
+            "question": "A man buys an article for (a) and sells the article for (b). What is the loss percentage?",
+            "formula": "((a-b)/a)*100",
+            "max_a":"10000",
+            "max_b":"100",
+            "min_a":"1000",
+            "min_b":"10",
+            "range_a":"100",
+            "range_b":"10"
+        },
+
+    "3":{
+            "question": "A man buys a cycle for (a) and sells it at a loss of (b)%. What is the selling price of the cycle?",
+            "formula": "a*(100-b)/100",
+            "max_a":"10000",
+            "max_b":"95",
+            "min_a":"1000",
+            "min_b":"10",
+            "range_a":"100",
+            "range_b":"5"
+        },
+
+    "4":{
+        "question": "A man buys a cycle for (a) and sells it at a profit of (b)%. What is the selling price of the cycle?",
+        "formula": "a*(100+b)/100",
+        "max_a":"10000",
+        "max_b":"50",
+        "min_a":"1000",
+        "min_b":"10",
+        "range_a":"100",
+        "range_b":"5"
+    },
+    "5":{
+        "question": "On selling an article for (a),there is a profit of (b)%. The cost price of that article is",
+        "formula": "a*(100/(100+b))",
+        "max_a":"10000",
+        "max_b":"90",
+        "min_a":"1000",
+        "min_b":"10",
+        "range_a":"100",
+        "range_b":"10"
+    },
+    "6":{
+        "question": "On selling an article for (a),there is a loss of (b)%. The cost price of that article is",
+        "formula": "a*(100/(100-b))",
+        "max_a":"10000",
+        "max_b":"50",
+        "min_a":"1000",
+        "min_b":"10",
+        "range_a":"100",
+        "range_b":"10"
+    },
+    "7":{
+        "question": "By what percent must the cost price be raised in fixing the sale price in order that there may be a profit of (a)% after allowing a commission of (b)%",
+        "formula": "((100*(100+a)/100)*(100/(100-b)))-100",
+        "max_a":"100",
+        "max_b":"50",
+        "min_a":"5",
+        "min_b":"5",
+        "range_a":"5",
+        "range_b":"5"
+    }
+}
+
+
+
